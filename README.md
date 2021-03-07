@@ -8,7 +8,7 @@ Projeto Angular - Cursos faz plano do **Bootcamp Avanade Angular**, junto com a 
 Consiste em um sistema de cursos, com informações de preços, avaliações, nome do curso...
 
 ## Layout web
-![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/angularcursos/telacursos.png)
+![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/angularcursos/telacursos.PNG)
 
 
 # Tecnologias utilizadas
